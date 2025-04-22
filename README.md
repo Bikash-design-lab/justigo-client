@@ -5,6 +5,9 @@ Justigo Client is the **frontend application** of the **Crime Reporting and Trac
 Built using **React.js**, Justigo provides a modern and responsive user experience tailored for **Citizens**, **Lawyers**, and **Admins**.
 
 ---
+## 📄 Project Presentation
+
+<a href="https://drive.google.com/file/d/1T9Kt4jh1KqJ4F_9M9-JCkD-uz4Aj72V1/view?usp=sharing" target="_blank">👉 View Justigo Presentation (PDF)</a>
 
 ## 🚀 Features
 
@@ -129,8 +132,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 📄 Project Presentation
 
-👉 [View Justigo Presentation (PDF)](https://drive.google.com/file/d/1T9Kt4jh1KqJ4F_9M9-JCkD-uz4Aj72V1/view?usp=sharing)
 
 
